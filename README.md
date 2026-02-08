@@ -1,98 +1,229 @@
-# Student-Only AI/Cloud Benefits (Last verified: 2026-02-08)
+<div align="center">
 
-Curated, student-only offers for AI assistants, LLM APIs, GPU/notebooks, cloud credits, and dev tools. Focus: requires student verification (email/SheerID/GitHub Student Pack/ISIC). No general free tiers.
+# 🎓 Student-Only AI & Cloud Benefits
 
-## How to use
-- Check eligibility and geography; verify with academic email or GitHub Student Pack before planning spend.
-- Note duration type (renewable, fixed-term, or credit-based) and what happens after expiry.
-- Mind payment requirements (some need a card for overages) and service limits (regions, rate limits, GPU hours).
-- Redeem only via official links below; avoid third-party coupon/blog claims.
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--08-blue?style=for-the-badge)
+![Offers](https://img.shields.io/badge/Verified%20Offers-15+-brightgreen?style=for-the-badge)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
-## Scope rules
-- Student-only benefits; excludes ordinary free tiers unless extra student value exists.
-- Categories: AI assistants, LLM APIs, GPU/notebooks, cloud/hosting, dev tools for AI/ML, learning/certifications.
+**The ultimate curated list of student-exclusive offers for AI assistants, LLM APIs, GPU/notebooks, cloud credits, and developer tools.**
 
----
-## Global
+> 🚫 General free tiers excluded — every offer here requires student verification (academic email · SheerID · GitHub Student Pack · ISIC).
 
-### AI/LLM assistants & study tools
-| Product | Category | Benefit | Eligibility | Verification | Geography | Duration + after | Requirements | Key limits | Official link | Last verified |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| GitHub Copilot Pro (via GitHub Student Pack) | LLM assistant | Copilot Pro free while student | Higher-ed students in GitHub SDP | GitHub Student status | Global | Renewable while student; reverts to paid | GitHub account; no card for Copilot | Personal/student use; org policy may restrict | https://education.github.com/pack | 2026-02-08 |
-| JetBrains AI Pro (Student Pack) | IDE AI assistant | AI Pro trial included with free IDEs | Accredited students | Academic email / ISIC / GitHub SDP | Global | Renewable annually while student; then paid | JetBrains account | AI feature scope may differ from paid; non-commercial | https://www.jetbrains.com/community/education/#students | 2026-02-08 |
+[<kbd> <br> 🚀 Get Started <br> </kbd>](#-how-to-use) &nbsp;&nbsp;
+[<kbd> <br> 🌍 Global Offers <br> </kbd>](#-global-offers) &nbsp;&nbsp;
+[<kbd> <br> 🤝 Contribute <br> </kbd>](CONTRIBUTING.md)
 
-### LLM APIs & developer platforms
-| Product | Category | Benefit | Eligibility | Verification | Geography | Duration + after | Requirements | Key limits | Official link | Last verified |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Azure for Students | LLM API / Cloud | $100 credit (12 mo) + free tiers; Azure OpenAI access | Higher-ed students (18+) | Academic email; no card | Global (service availability varies) | Credit-based 12 mo; renewable yearly while student; then pay-as-you-go | No card at signup; account required | Regional/service restrictions; marketplace often excluded | https://azure.microsoft.com/free/students/ | 2026-02-08 |
-| Heroku for GitHub Students | PaaS | $13/mo credits x24 months ($312) | GitHub Student Pack, age 18+ | GitHub SDP + ID; card required | Global | Fixed-term 24 mo; then pay-as-you-go | Credit/debit card; no rollover | Credits exclude 3rd-party add-ons; overages billable | https://www.heroku.com/github-students | 2026-02-08 |
-| DigitalOcean via GitHub SDP | Cloud/VPS | $200 platform credit for 1 year | GitHub Student Pack | GitHub SDP | Global | Credit-based 12 mo; then pay-as-you-go | Likely card for verification | Standard DO limits; credit for core platform | https://education.github.com/pack | 2026-02-08 |
-| MongoDB Atlas via GitHub SDP | Managed DB | $50 Atlas credits + Compass + free cert | GitHub Student Pack | GitHub SDP | Global | Credit-based; expires when used; cert one-time | Atlas account; card may be required regionally | Certain features (e.g., Atlas Search/Vector) may need higher tiers | https://education.github.com/pack | 2026-02-08 |
-
-### GPU compute / notebooks / inference
-| Product | Category | Benefit | Eligibility | Verification | Geography | Duration + after | Requirements | Key limits | Official link | Last verified |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Camber Student (via GitHub SDP) | GPU/LLM & notebooks | 200 CPU hrs/mo, 75 GB storage, 200 LLM msgs/mo | GitHub Student Pack | GitHub SDP | Global | Renewable while student | Account; card may be needed for overages | Monthly quotas; overages billable | https://education.github.com/pack | 2026-02-08 |
-| Deepnote Team Plan (via GitHub SDP) | Collaborative notebooks | Team plan free while student; unlimited basic machines up to 5 GB RAM/2 vCPU; premium DB integrations | GitHub Student Pack | GitHub SDP | Global | Renewable while student | Account | Machine sizes capped; fair-use applies | https://education.github.com/pack | 2026-02-08 |
-
-### Cloud credits / hosting / servers
-(See also LLM/API table for Azure/Heroku/DO.)
-
-### Dev tools for AI/ML
-| Product | Category | Benefit | Eligibility | Verification | Geography | Duration + after | Requirements | Key limits | Official link | Last verified |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| JetBrains Student Pack | IDEs + AI | All IDEs free; AI Pro trial; renew annually | Accredited students | Academic email / ISIC / GitHub SDP | Global | Renewable while student; then discounted graduate offer | JetBrains account | Non-commercial use | https://www.jetbrains.com/community/education/#students | 2026-02-08 |
-| GitHub Codespaces (via SDP) | Cloud dev env | Pro-level Codespaces free while student | GitHub Student Pack | GitHub SDP | Global | Renewable while student | GitHub account | Usage quotas per GitHub EDU terms | https://education.github.com/pack | 2026-02-08 |
-| Termius Pro (via SDP) | SSH client | Termius Pro/Team free while student | GitHub Student Pack | GitHub SDP | Global | Renewable while student | Account | Personal/student use | https://education.github.com/pack | 2026-02-08 |
-| New Relic (via SDP) | Observability | New Relic free ($300/mo value) while student | GitHub Student Pack | GitHub SDP | Global | Renewable while student | Account | Ingest and retention limits per plan | https://education.github.com/pack | 2026-02-08 |
-
-### Learning / certifications (student-only)
-| Product | Category | Benefit | Eligibility | Verification | Geography | Duration + after | Requirements | Key limits | Official link | Last verified |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Google Cloud for Students (Skills Boost) | Cloud learning | 200 Google Skills credits; expire in 1 year | Higher-ed students | Academic email application | Global | Credit-based (1-year expiry) | Account | Credits for labs/training; not GCP infra | https://cloud.google.com/edu/students | 2026-02-08 |
-| IBM SkillsBuild (College Students) | AI/Cloud learning | Free courses + digital credentials | College students | Registration with academic org/email | Global | Renewable while student | Account | Training access only (no infra credits) | https://www.ibm.com/academic | 2026-02-08 |
-| Anaconda for Education | AI/DS tooling + learning | Free Starter plan with AI Navigator/Assistant, cloud notebooks | Accredited academic email | Academic email | Global | Renewable while student (policy-based) | Account | Non-commercial; resource caps | https://www.anaconda.com/education | 2026-02-08 |
-| GitHub Certification Voucher (via SDP) | Certification | One free voucher (Foundations or Copilot) while supplies last; coupon expires 2026-06-30 | GitHub Student Pack | GitHub SDP | Global | One-time | None beyond SDP | Limited supply; single use | https://education.github.com/pack | 2026-02-08 |
+</div>
 
 ---
-## North America (US/Canada)
-No additional student-only offers confirmed beyond Global. Regional service availability still applies (e.g., Azure OpenAI regions).
 
-## Latin America
-No additional student-only offers confirmed beyond Global.
+## 📑 Table of Contents
 
-## Europe + UK
-No additional student-only offers confirmed beyond Global.
+<details>
+<summary>Click to expand</summary>
 
-## Middle East
-No additional student-only offers confirmed beyond Global.
+- [🚀 How to Use](#-how-to-use)
+- [📖 Legend](#-legend)
+- [📏 Scope Rules](#-scope-rules)
+- [🌍 Global Offers](#-global-offers)
+  - [🤖 AI/LLM Assistants & Study Tools](#-aillm-assistants--study-tools)
+  - [🔌 LLM APIs & Developer Platforms](#-llm-apis--developer-platforms)
+  - [⚡ GPU Compute / Notebooks / Inference](#-gpu-compute--notebooks--inference)
+  - [☁️ Cloud Credits / Hosting / Servers](#%EF%B8%8F-cloud-credits--hosting--servers)
+  - [🛠️ Dev Tools for AI/ML](#%EF%B8%8F-dev-tools-for-aiml)
+  - [📚 Learning / Certifications](#-learning--certifications-student-only)
+- [🗺️ Regional Notes](#%EF%B8%8F-regional-notes)
+- [❓ Unverified / Needs Confirmation](#-unverified--needs-confirmation)
+- [📝 Changelog](#-changelog)
 
-## Africa
-No additional student-only offers confirmed beyond Global.
-
-## South Asia (India, Pakistan, etc.)
-No additional student-only offers confirmed beyond Global.
-
-## East Asia
-No additional student-only offers confirmed beyond Global.
-
-## Southeast Asia
-No additional student-only offers confirmed beyond Global.
-
-## Oceania
-No additional student-only offers confirmed beyond Global.
+</details>
 
 ---
-## Unverified / needs confirmation
-- Google "Gemini for Students" free trial (official page not found; confirm before listing).
-- Cloudflare for Students (.edu/US-only claim) – official page not found.
-- AWS Educate student credits – current credit amounts not located in official FAQ.
-- Paperspace Education – only login page found; no stated benefit.
-- Supabase student program – no official EDU benefit page found.
-- Back4App student program – no official student-only terms found.
-- Alibaba Cloud / Oracle Cloud student credits – pages not found.
-- Replit student plan – page not found.
+
+## 🚀 How to Use
+
+> **Before you claim any offer, run through this checklist:**
+
+| Step | Action |
+|:----:|--------|
+| **1** | ✅ Confirm your **eligibility** — academic email or GitHub Student Pack — and check geographic availability |
+| **2** | 📅 Note the **duration type**: `Renewable` · `Fixed-term` · `Credit-based` — and what happens after expiry |
+| **3** | 💳 Check **payment requirements** — some need a card for verification or overages |
+| **4** | 🔗 Use **only official links** from this list — ignore third-party coupon/blog claims |
 
 ---
-## Changelog
-- 2026-02-08: Initial curated tables and unverified watchlist.
+
+## 📖 Legend
+
+| Symbol | Meaning |
+|:------:|---------|
+| 🔄 | **Renewable** — while you remain a student |
+| ⏳ | **Fixed-term** — specific duration (months) |
+| 💰 | **Credit-based** — set amount + expiry date |
+| 🎓 | **Academic email** verification |
+| 🛡️ | **SheerID / ISIC** verification |
+| 🐙 | **GitHub Student Pack** verification |
+| 🌐 | **Global** availability |
+
+---
+
+## 📏 Scope Rules
+
+```
+✔ Student-only benefits — no ordinary free tiers unless there is added student value
+✔ Categories: AI assistants · LLM APIs · GPU/notebooks · Cloud/hosting · Dev tools · Learning/certifications
+✘ General free tiers without student-specific value are excluded
+```
+
+---
+
+## 🌍 Global Offers
+
+### 🤖 AI/LLM Assistants & Study Tools
+<details open>
+<summary><strong>View Offers</strong></summary>
+
+| Product | Benefit | Duration | Verification | Requirements | Key Limits | Link |
+|:--------|:--------|:--------:|:------------:|:-------------|:-----------|:----:|
+| **GitHub Copilot Pro** | 🔄 Copilot Pro free while student | 🔄 Renewable | 🐙 GitHub SDP | GitHub account; no card | Personal/student use | [🔗](https://education.github.com/pack) |
+| **JetBrains AI Pro** | 🔄 AI Pro trial with free IDEs | 🔄 Renewable annually | 🎓 🛡️ 🐙 | JetBrains account | Non-commercial; features may differ from paid | [🔗](https://www.jetbrains.com/community/education/#students) |
+
+</details>
+
+<p align="right"><a href="#-table-of-contents">⬆ Back to Top</a></p>
+
+### 🔌 LLM APIs & Developer Platforms
+
+<details open>
+<summary><strong>View Offers</strong></summary>
+
+| Product | Benefit | Duration | Verification | Requirements | Key Limits | Link |
+|:--------|:--------|:--------:|:------------:|:-------------|:-----------|:----:|
+| **Azure for Students** | 💰 $100 credit (12 mo) + free tiers; Azure OpenAI access | 💰 12 mo, renewable | 🎓 No card | Account required | Regional/service restrictions; marketplace excluded | [🔗](https://azure.microsoft.com/free/students/) |
+| **Heroku** (GitHub Students) | 💰 $13/mo × 24 months (**$312 total**) | ⏳ 24 months | 🐙 + ID | 💳 Card required; no rollover | Excludes 3rd-party add-ons; overages billable | [🔗](https://www.heroku.com/github-students) |
+| **DigitalOcean** (via SDP) | 💰 **$200** platform credit for 1 year | 💰 12 mo | 🐙 GitHub SDP | Likely card for verification | Standard DO limits | [🔗](https://education.github.com/pack) |
+| **MongoDB Atlas** (via SDP) | 💰 $50 Atlas credits + Compass + free cert | 💰 Until used | 🐙 GitHub SDP | Atlas account | Higher tiers needed for some features | [🔗](https://education.github.com/pack) |
+
+</details>
+
+<p align="right"><a href="#-table-of-contents">⬆ Back to Top</a></p>
+
+### ⚡ GPU Compute / Notebooks / Inference
+
+<details open>
+<summary><strong>View Offers</strong></summary>
+
+| Product | Benefit | Duration | Verification | Requirements | Key Limits | Link |
+|:--------|:--------|:--------:|:------------:|:-------------|:-----------|:----:|
+| **Camber Student** (via SDP) | 🔄 200 CPU hrs/mo · 75 GB storage · 200 LLM msgs/mo | 🔄 Renewable | 🐙 GitHub SDP | Account | Monthly quotas; overages billable | [🔗](https://education.github.com/pack) |
+| **Deepnote Team** (via SDP) | 🔄 Team plan free; unlimited basic machines (5 GB RAM / 2 vCPU) | 🔄 Renewable | 🐙 GitHub SDP | Account | Machine sizes capped; fair-use | [🔗](https://education.github.com/pack) |
+
+</details>
+
+<p align="right"><a href="#-table-of-contents">⬆ Back to Top</a></p>
+
+### ☁️ Cloud Credits / Hosting / Servers
+
+> **📌 Note:** See the [LLM APIs & Developer Platforms](#-llm-apis--developer-platforms) section for Azure, Heroku, and DigitalOcean cloud credits.
+
+<p align="right"><a href="#-table-of-contents">⬆ Back to Top</a></p>
+
+### 🛠️ Dev Tools for AI/ML
+
+<details open>
+<summary><strong>View Offers</strong></summary>
+
+| Product | Benefit | Duration | Verification | Requirements | Key Limits | Link |
+|:--------|:--------|:--------:|:------------:|:-------------|:-----------|:----:|
+| **JetBrains Student Pack** | 🔄 All IDEs free + AI Pro trial | 🔄 Renewable | 🎓 🛡️ 🐙 | JetBrains account | Non-commercial use | [🔗](https://www.jetbrains.com/community/education/#students) |
+| **GitHub Codespaces** (via SDP) | 🔄 Pro-level Codespaces free | 🔄 Renewable | 🐙 GitHub SDP | GitHub account | Usage quotas per EDU terms | [🔗](https://education.github.com/pack) |
+| **Termius Pro** (via SDP) | 🔄 Pro/Team SSH client free | 🔄 Renewable | 🐙 GitHub SDP | Account | Personal/student use | [🔗](https://education.github.com/pack) |
+| **New Relic** (via SDP) | 🔄 Observability platform free (**~$300/mo value**) | 🔄 Renewable | 🐙 GitHub SDP | Account | Ingest and retention limits | [🔗](https://education.github.com/pack) |
+
+</details>
+
+<p align="right"><a href="#-table-of-contents">⬆ Back to Top</a></p>
+
+### 📚 Learning / Certifications (Student-Only)
+
+<details open>
+<summary><strong>View Offers</strong></summary>
+
+| Product | Benefit | Duration | Verification | Requirements | Key Limits | Link |
+|:--------|:--------|:--------:|:------------:|:-------------|:-----------|:----:|
+| **Google Cloud Skills Boost** | 💰 200 Google Skills credits; 1-year expiry | 💰 1 year | 🎓 Academic email | Account | Labs/training only; not GCP infra | [🔗](https://cloud.google.com/edu/students) |
+| **IBM SkillsBuild** | 🔄 Free courses + digital credentials | 🔄 Renewable | 🎓 Academic org/email | Account | Training access only | [🔗](https://www.ibm.com/academic) |
+| **Anaconda for Education** | 🔄 Free Starter + AI Navigator/Assistant + cloud notebooks | 🔄 Renewable | 🎓 Academic email | Account | Non-commercial; resource caps | [🔗](https://www.anaconda.com/education) |
+| **GitHub Cert Voucher** (via SDP) | 🎟️ One free voucher (Foundations or Copilot) | ⏳ Expires 2026-06-30 | 🐙 GitHub SDP | None beyond SDP | Limited supply; single use | [🔗](https://education.github.com/pack) |
+
+</details>
+
+<p align="right"><a href="#-table-of-contents">⬆ Back to Top</a></p>
+
+---
+
+## 🗺️ Regional Notes
+
+> All offers above are **globally available**. Below are region-specific notes on availability and restrictions.
+
+<details>
+<summary><strong>Click to expand regional details</strong></summary>
+
+| Region | Status |
+|:-------|:-------|
+| 🇺🇸 **North America** (US/Canada) | No additional student-only offers beyond Global. Regional service availability applies (e.g., Azure OpenAI regions). |
+| 🌎 **Latin America** | No additional student-only offers confirmed beyond Global. |
+| 🇪🇺 **Europe + UK** | No additional student-only offers confirmed beyond Global. |
+| 🌍 **Middle East** | No additional student-only offers confirmed beyond Global. |
+| 🌍 **Africa** | No additional student-only offers confirmed beyond Global. |
+| 🇮🇳 **South Asia** (India, Pakistan, etc.) | No additional student-only offers confirmed beyond Global. |
+| 🇯🇵 **East Asia** | No additional student-only offers confirmed beyond Global. |
+| 🌏 **Southeast Asia** | No additional student-only offers confirmed beyond Global. |
+| 🇦🇺 **Oceania** | No additional student-only offers confirmed beyond Global. |
+
+</details>
+
+<p align="right"><a href="#-table-of-contents">⬆ Back to Top</a></p>
+
+---
+
+## ❓ Unverified / Needs Confirmation
+
+> **Help wanted!** If you can verify any of these, please [open a PR](CONTRIBUTING.md). 
+
+| Service | Status | Notes |
+|:--------|:------:|:------|
+| Google "Gemini for Students" | 🔍 Investigating | Official page not found; confirm before listing |
+| Cloudflare for Students | 🔍 Investigating | .edu/US-only claim — official page not found |
+| AWS Educate | 🔍 Investigating | Current credit amounts not located in official FAQ |
+| Paperspace Education | 🔍 Investigating | Only login page found; no stated benefit |
+| Supabase Student Program | 🔍 Investigating | No official EDU benefit page found |
+| Back4App Student Program | 🔍 Investigating | No official student-only terms found |
+| Alibaba Cloud / Oracle Cloud | 🔍 Investigating | Student credit pages not found |
+| Replit Student Plan | 🔍 Investigating | Page not found |
+
+<p align="right"><a href="#-table-of-contents">⬆ Back to Top</a></p>
+
+---
+
+## 📝 Changelog
+
+| Date | Change |
+|:-----|:-------|
+| **2026-02-08** | Initial curated tables and unverified watchlist |
+
+---
+
+<div align="center">
+
+### 💡 Know a student offer we're missing?
+
+[![Contribute](https://img.shields.io/badge/Contribute-Add%20an%20Offer-blue?style=for-the-badge)](CONTRIBUTING.md)
+
+**Made with ❤️ for students everywhere**
+
+⭐ Star this repo if you found it helpful!
+
+</div>
