@@ -3,7 +3,7 @@
 # 🎓 Student-Only AI & Cloud Benefits
 
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--08-blue?style=for-the-badge)
-![Offers](https://img.shields.io/badge/Verified%20Offers-50+-brightgreen?style=for-the-badge)
+![Offers](https://img.shields.io/badge/Verified%20Offers-60+-brightgreen?style=for-the-badge)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
@@ -102,6 +102,13 @@
 | **Grammarly** | 🔄 Free AI writing assistant for students — grammar, citations, AI agents | 🔄 While enrolled | 🎓 Institution or student email | Student or institution-based | Authorship tracking, plagiarism check, AI citation | [🔗](https://www.grammarly.com/students) |
 | **Notion AI** (via SDP) | 🔄 Education Plus plan free + AI responses | 🔄 Renewable | 🐙 GitHub SDP / 🎓 .edu | Account | Plus plan features + unlimited pages & blocks | [🔗](https://www.notion.com/product/notion-for-education) |
 | **JetBrains AI Pro** | 🔄 AI Pro trial with free IDEs | 🔄 Renewable annually | 🎓 🛡️ 🐙 | JetBrains account | Non-commercial; features may differ from paid | [🔗](https://www.jetbrains.com/community/education/#students) |
+| **Mistral Le Chat Student** | 🔄 Discounted Le Chat Student plan — SOTA models, search, canvas, code interpreter | 🔄 While enrolled | 🎓 .edu email | Le Chat free account first | Verified student/educator email required; discounted rate with local VAT | [🔗](https://mistral.ai/pricing) |
+| **Windsurf** | 🔄 50%+ off Pro — AI code editor with 70+ language support | 🔄 While enrolled | 🎓 .edu email | Student email | AI Fellowship program also available for campus ambassadors | [🔗](https://windsurf.com/editor/students) |
+| **Figma for Education** | 🔄 Free Pro-tier Figma — design, prototype, whiteboard | 🔄 While enrolled | 🎓 Edu verification | Student or teacher | Full pro features free for education | [🔗](https://www.figma.com/education/) |
+| **Canva for Education** | 🔄 Free Premium Canva — 80K+ templates, AI tools (Magic Write) | 🔄 While enrolled | 🎓 Edu verification | K-12 & higher-ed students/teachers | 100M+ users; full premium features free | [🔗](https://www.canva.com/education/schools/) |
+| **Runway ML** (Education) | 💰 20% off individual / 25% off class bulk + Ambassador 100K credits | 🔄 While enrolled | 🎓 .edu email | Student email; Ambassador application | AI video generation; free plan has 125 credits | [🔗](https://runwayml.com/educators) |
+| **v0 by Vercel** (Students) | 💰 Free credits + student program perks — AI React component generator | ⏳ While enrolled | 🎓 School must qualify | Check active schools list | Text-to-React; waitlist for new schools | [🔗](https://v0.dev/students) |
+| **Lovable** (Education) | 🔄 Free access via imagi Edu — AI app builder, no code needed | 🔄 Classroom-based | 🎓 Teacher sets up via imagi Edu | Grades 6-12; teacher creates student logins | Temporary anonymous accounts; classroom-ready | [🔗](https://lovable.dev/classroom) |
 
 </details>
 
@@ -296,6 +303,7 @@
 | **2026-02-08** | Initial curated tables and unverified watchlist |
 | **2026-02-08** | Added 25+ offers from GitHub SDP, community repos; new Security, Domains sections |
 | **2026-02-08** | Added 8 AI tool offers: Gemini Advanced, ChatGPT Plus, Claude for Education, Perplexity Pro, Microsoft Copilot, Cursor Pro, Grammarly; moved Gemini from unverified; updated regional notes |
+| **2026-02-08** | Added 8 more AI/creative tools: Mistral Le Chat Student, Windsurf, Figma, Canva, Runway ML, v0 by Vercel, Lovable; student deal websites section |
 
 ---
 
