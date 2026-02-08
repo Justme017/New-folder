@@ -3,7 +3,7 @@
 # 🎓 Student-Only AI & Cloud Benefits
 
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--08-blue?style=for-the-badge)
-![Offers](https://img.shields.io/badge/Verified%20Offers-15+-brightgreen?style=for-the-badge)
+![Offers](https://img.shields.io/badge/Verified%20Offers-40+-brightgreen?style=for-the-badge)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
@@ -33,7 +33,9 @@
   - [⚡ GPU Compute / Notebooks / Inference](#-gpu-compute--notebooks--inference)
   - [☁️ Cloud Credits / Hosting / Servers](#%EF%B8%8F-cloud-credits--hosting--servers)
   - [🛠️ Dev Tools for AI/ML](#%EF%B8%8F-dev-tools-for-aiml)
-  - [📚 Learning / Certifications](#-learning--certifications-student-only)
+  - [� Security & Productivity](#-security--productivity)
+  - [🌐 Domains & Web Hosting](#-domains--web-hosting)
+  - [�📚 Learning / Certifications](#-learning--certifications-student-only)
 - [🗺️ Regional Notes](#%EF%B8%8F-regional-notes)
 - [❓ Unverified / Needs Confirmation](#-unverified--needs-confirmation)
 - [📝 Changelog](#-changelog)
@@ -89,6 +91,7 @@
 |:--------|:--------|:--------:|:------------:|:-------------|:-----------|:----:|
 | **GitHub Copilot Pro** | 🔄 Copilot Pro free while student | 🔄 Renewable | 🐙 GitHub SDP | GitHub account; no card | Personal/student use | [🔗](https://education.github.com/pack) |
 | **JetBrains AI Pro** | 🔄 AI Pro trial with free IDEs | 🔄 Renewable annually | 🎓 🛡️ 🐙 | JetBrains account | Non-commercial; features may differ from paid | [🔗](https://www.jetbrains.com/community/education/#students) |
+| **Notion AI** (via SDP) | 🔄 Education plan + additional AI responses | 🔄 Renewable | 🐙 GitHub SDP | Account | Plus plan features + sharing/collab | [🔗](https://education.github.com/pack) |
 
 </details>
 
@@ -105,6 +108,9 @@
 | **Heroku** (GitHub Students) | 💰 $13/mo × 24 months (**$312 total**) | ⏳ 24 months | 🐙 + ID | 💳 Card required; no rollover | Excludes 3rd-party add-ons; overages billable | [🔗](https://www.heroku.com/github-students) |
 | **DigitalOcean** (via SDP) | 💰 **$200** platform credit for 1 year | 💰 12 mo | 🐙 GitHub SDP | Likely card for verification | Standard DO limits | [🔗](https://education.github.com/pack) |
 | **MongoDB Atlas** (via SDP) | 💰 $50 Atlas credits + Compass + free cert | 💰 Until used | 🐙 GitHub SDP | Atlas account | Higher tiers needed for some features | [🔗](https://education.github.com/pack) |
+| **Stripe** (via SDP) | 💰 Waived transaction fees on first **$1,000** revenue | 💰 Until used | 🐙 GitHub SDP | Stripe account | First $1K only | [🔗](https://education.github.com/pack) |
+| **Appwrite** (via SDP) | 🔄 Education plan free (**~$15/mo value**) | 🔄 Renewable | 🐙 GitHub SDP | Account | Equivalent to Pro resource limits | [🔗](https://education.github.com/pack) |
+| **LocalStack** (via SDP) | 🔄 Free license for AWS cloud emulator | 🔄 Renewable | 🐙 GitHub SDP | Account | Emulates AWS services locally | [🔗](https://education.github.com/pack) |
 
 </details>
 
@@ -119,6 +125,8 @@
 |:--------|:--------|:--------:|:------------:|:-------------|:-----------|:----:|
 | **Camber Student** (via SDP) | 🔄 200 CPU hrs/mo · 75 GB storage · 200 LLM msgs/mo | 🔄 Renewable | 🐙 GitHub SDP | Account | Monthly quotas; overages billable | [🔗](https://education.github.com/pack) |
 | **Deepnote Team** (via SDP) | 🔄 Team plan free; unlimited basic machines (5 GB RAM / 2 vCPU) | 🔄 Renewable | 🐙 GitHub SDP | Account | Machine sizes capped; fair-use | [🔗](https://education.github.com/pack) |
+| **Hugging Face** (Students) | 🔄 Compute grants + ambassador programs | 🔄 Varies | 🎓 Academic email | Account | Grant-based; apply via HF | [🔗](https://huggingface.co/students) |
+| **Weights & Biases** (Academic) | 🔄 Free academic plan for ML experiment tracking | 🔄 Renewable | 🎓 Academic email | Account | Academic use only | [🔗](https://wandb.ai/site/academic) |
 
 </details>
 
@@ -126,7 +134,18 @@
 
 ### ☁️ Cloud Credits / Hosting / Servers
 
-> **📌 Note:** See the [LLM APIs & Developer Platforms](#-llm-apis--developer-platforms) section for Azure, Heroku, and DigitalOcean cloud credits.
+<details open>
+<summary><strong>View Offers</strong></summary>
+
+| Product | Benefit | Duration | Verification | Requirements | Key Limits | Link |
+|:--------|:--------|:--------:|:------------:|:-------------|:-----------|:----:|
+| **Datadog** (via SDP) | ⏳ Pro Account with 10 servers, free for **2 years** | ⏳ 2 years | 🐙 GitHub SDP | Account | 10 server limit | [🔗](https://education.github.com/pack) |
+| **Sentry** (via SDP) | ⏳ 50K errors, 100K transactions, Team features, **1 year** | ⏳ 1 year (renewable) | 🐙 GitHub SDP | Account | On-demand disabled | [🔗](https://education.github.com/pack) |
+| **IBM Cloud** (Academic Initiative) | 🔄 Free access to 40+ services + credits | 🔄 Renewable | 🎓 Academic email | Account | Academic use | [🔗](https://www.ibm.com/academic) |
+
+> **📌 Also see:** [LLM APIs & Developer Platforms](#-llm-apis--developer-platforms) for Azure ($100), Heroku ($312), DigitalOcean ($200).
+
+</details>
 
 <p align="right"><a href="#-table-of-contents">⬆ Back to Top</a></p>
 
@@ -141,12 +160,55 @@
 | **GitHub Codespaces** (via SDP) | 🔄 Pro-level Codespaces free | 🔄 Renewable | 🐙 GitHub SDP | GitHub account | Usage quotas per EDU terms | [🔗](https://education.github.com/pack) |
 | **Termius Pro** (via SDP) | 🔄 Pro/Team SSH client free | 🔄 Renewable | 🐙 GitHub SDP | Account | Personal/student use | [🔗](https://education.github.com/pack) |
 | **New Relic** (via SDP) | 🔄 Observability platform free (**~$300/mo value**) | 🔄 Renewable | 🐙 GitHub SDP | Account | Ingest and retention limits | [🔗](https://education.github.com/pack) |
+| **GitKraken Pro Suite** (via SDP) | ⏳ Free 6 months + 80% off Pro while student | ⏳ 6 mo + discount | 🐙 GitHub SDP | Account | Includes GitKraken Client + GitLens | [🔗](https://education.github.com/pack) |
+| **Bootstrap Studio** (via SDP) | 🔄 Free license for responsive website builder | 🔄 Renewable | 🐙 GitHub SDP | Account | Student use | [🔗](https://education.github.com/pack) |
+| **Tower Git** (via SDP) | 🔄 Free Pro license for Git client | 🔄 Renewable | 🐙 GitHub SDP | Account | Mac & Windows | [🔗](https://education.github.com/pack) |
+| **Polypane** (via SDP) | ⏳ Free individual plan for **1 year** | ⏳ 1 year | 🐙 GitHub SDP | Account | Browser dev tool for responsive design | [🔗](https://education.github.com/pack) |
+| **BrowserStack** (via SDP) | ⏳ Free Automate Mobile Plan for **1 year** | ⏳ 1 year | 🐙 GitHub SDP | Account | 1 parallel, 1 user | [🔗](https://education.github.com/pack) |
+| **LambdaTest** (via SDP) | ⏳ Free Live Plan for **1 year** | ⏳ 1 year | 🐙 GitHub SDP | Account | Cross-browser testing | [🔗](https://education.github.com/pack) |
+| **Travis CI** (via SDP) | 🔄 Free private builds while student | 🔄 Renewable | 🐙 GitHub SDP | Account | CI/CD for private repos | [🔗](https://education.github.com/pack) |
+| **Doppler** (via SDP) | 🔄 Free Team subscription for secrets management | 🔄 Renewable | 🐙 GitHub SDP | Account | Active student status required | [🔗](https://education.github.com/pack) |
+| **Arduino Cloud** (via SDP) | ⏳ Free Arduino Cloud for **6 months** + hardware discounts | ⏳ 6 months | 🐙 GitHub SDP | Account | IoT platform | [🔗](https://education.github.com/pack) |
 
 </details>
 
 <p align="right"><a href="#-table-of-contents">⬆ Back to Top</a></p>
 
-### 📚 Learning / Certifications (Student-Only)
+### � Security & Productivity
+
+<details open>
+<summary><strong>View Offers</strong></summary>
+
+| Product | Benefit | Duration | Verification | Requirements | Key Limits | Link |
+|:--------|:--------|:--------:|:------------:|:-------------|:-----------|:----:|
+| **1Password** (via SDP) | ⏳ Free for **1 year** + Developer Tools | ⏳ 1 year | 🐙 GitHub SDP | Account | Password manager | [🔗](https://education.github.com/pack) |
+| **Dashlane** (via SDP) | ⏳ Free Premium for **6 months** | ⏳ 6 months | 🐙 GitHub SDP | Account | Password manager | [🔗](https://education.github.com/pack) |
+| **Honeybadger** (via SDP) | ⏳ Free Small account for **1 year** | ⏳ 1 year | 🐙 GitHub SDP | Account | Exception/uptime monitoring | [🔗](https://education.github.com/pack) |
+| **PomoDone** (via SDP) | ⏳ Free Lite plan for **2 years** | ⏳ 2 years | 🐙 GitHub SDP | Account | Pomodoro time tracker | [🔗](https://education.github.com/pack) |
+| **Codecov** (via SDP) | 🔄 Free access for public & private repos | 🔄 Renewable | 🐙 GitHub SDP | Account | Code coverage tool | [🔗](https://education.github.com/pack) |
+| **CodeScene** (via SDP) | 🔄 Free Student account for private repo analysis | 🔄 Renewable | 🐙 GitHub SDP | Account | Code quality & tech debt | [🔗](https://education.github.com/pack) |
+
+</details>
+
+<p align="right"><a href="#-table-of-contents">⬆ Back to Top</a></p>
+
+### 🌐 Domains & Web Hosting
+
+<details open>
+<summary><strong>View Offers</strong></summary>
+
+| Product | Benefit | Duration | Verification | Requirements | Key Limits | Link |
+|:--------|:--------|:--------:|:------------:|:-------------|:-----------|:----:|
+| **Namecheap** (via SDP) | ⏳ Free **.me domain** for 1 year + 1 SSL cert | ⏳ 1 year | 🐙 GitHub SDP | Account | .me TLD only | [🔗](https://education.github.com/pack) |
+| **Name.com** (via SDP) | ⏳ Free domain (25+ extensions: .live, .app, .dev, etc.) | ⏳ 1 year | 🐙 GitHub SDP | Account | Select extensions | [🔗](https://education.github.com/pack) |
+| **.TECH** (via SDP) | ⏳ Free **.tech domain** for 1 year | ⏳ 1 year | 🐙 GitHub SDP | Account | Standard .tech domain | [🔗](https://education.github.com/pack) |
+| **Themeisle** (via SDP) | ⏳ Free year of **Neve Agency** WordPress theme | ⏳ 1 year | 🐙 GitHub SDP | Account | Premium WP theme | [🔗](https://education.github.com/pack) |
+
+</details>
+
+<p align="right"><a href="#-table-of-contents">⬆ Back to Top</a></p>
+
+### �📚 Learning / Certifications (Student-Only)
 
 <details open>
 <summary><strong>View Offers</strong></summary>
@@ -157,6 +219,13 @@
 | **IBM SkillsBuild** | 🔄 Free courses + digital credentials | 🔄 Renewable | 🎓 Academic org/email | Account | Training access only | [🔗](https://www.ibm.com/academic) |
 | **Anaconda for Education** | 🔄 Free Starter + AI Navigator/Assistant + cloud notebooks | 🔄 Renewable | 🎓 Academic email | Account | Non-commercial; resource caps | [🔗](https://www.anaconda.com/education) |
 | **GitHub Cert Voucher** (via SDP) | 🎟️ One free voucher (Foundations or Copilot) | ⏳ Expires 2026-06-30 | 🐙 GitHub SDP | None beyond SDP | Limited supply; single use | [🔗](https://education.github.com/pack) |
+| **DataCamp** (via SDP) | ⏳ **3 months** free full access | ⏳ 3 months | 🐙 GitHub SDP | Account | Full platform access | [🔗](https://education.github.com/pack) |
+| **Educative.io** (via SDP) | ⏳ **6 months** free access to 70+ courses + 30% off subs | ⏳ 6 months | 🐙 GitHub SDP | Account | Web dev, Python, Java, ML | [🔗](https://education.github.com/pack) |
+| **Frontend Masters** (via SDP) | ⏳ **6 months** free access to all courses | ⏳ 6 months | 🐙 GitHub SDP | Account | JS, Node.js, front-end | [🔗](https://education.github.com/pack) |
+| **Scrimba** (via SDP) | ⏳ **1 month** free Pro access to 40+ courses | ⏳ 1 month | 🐙 GitHub SDP | Account | Interactive coding platform | [🔗](https://education.github.com/pack) |
+| **Codedex Club** (via SDP) | ⏳ **6 months** free premium membership | ⏳ 6 months | 🐙 GitHub SDP | Account | Python, HTML, CSS, JS, React, Git | [🔗](https://education.github.com/pack) |
+| **GoRails** (via SDP) | ⏳ Free access to all videos for **12 months** | ⏳ 12 months | 🐙 GitHub SDP | Account | Ruby/Rails tutorials | [🔗](https://education.github.com/pack) |
+| **AlgoExpert** (via SDP) | ⏳ 20 free interview questions + **10% off** all products | ⏳ While student | 🐙 GitHub SDP | Account | Coding interview prep | [🔗](https://education.github.com/pack) |
 
 </details>
 
@@ -197,12 +266,14 @@
 |:--------|:------:|:------|
 | Google "Gemini for Students" | 🔍 Investigating | Official page not found; confirm before listing |
 | Cloudflare for Students | 🔍 Investigating | .edu/US-only claim — official page not found |
-| AWS Educate | 🔍 Investigating | Current credit amounts not located in official FAQ |
+| AWS Educate | ⚠️ Partially verified | [Page exists](https://aws.amazon.com/education/awseducate/) — content + credits, amounts unclear |
+| Alibaba Cloud Education | ⚠️ Partially verified | [Page exists](https://www.alibabacloud.com/campaign/education) — free servers + certs, terms unverified |
+| Oracle Cloud Free Tier | ⚠️ Partially verified | [General free tier](https://www.oracle.com/cloud/free/) — no confirmed student-specific add-on |
 | Paperspace Education | 🔍 Investigating | Only login page found; no stated benefit |
 | Supabase Student Program | 🔍 Investigating | No official EDU benefit page found |
 | Back4App Student Program | 🔍 Investigating | No official student-only terms found |
-| Alibaba Cloud / Oracle Cloud | 🔍 Investigating | Student credit pages not found |
 | Replit Student Plan | 🔍 Investigating | Page not found |
+| Tableau for Students | ⚠️ Partially verified | [Page exists](https://www.tableau.com/academic/students) — free 1-year license, needs detail verification |
 
 <p align="right"><a href="#-table-of-contents">⬆ Back to Top</a></p>
 
@@ -213,6 +284,20 @@
 | Date | Change |
 |:-----|:-------|
 | **2026-02-08** | Initial curated tables and unverified watchlist |
+| **2026-02-08** | Added 25+ offers from GitHub SDP, community repos; new Security, Domains sections |
+
+---
+
+## 🔗 Community Lists & Resources
+
+> Other great GitHub repos tracking student freebies:
+
+| Repository | Description | Stars |
+|:-----------|:------------|:-----:|
+| [**dipakkr/A-to-Z-Resources-for-Students**](https://github.com/dipakkr/A-to-Z-Resources-for-Students) | Comprehensive A-Z student resources: coding, hackathons, benefits, fellowships | ![Stars](https://img.shields.io/github/stars/dipakkr/A-to-Z-Resources-for-Students?style=flat-square) |
+| [**couponswift/awesome-student-software-deals**](https://github.com/couponswift/awesome-student-software-deals) | Verified free software & student discounts across 10 categories | ![Stars](https://img.shields.io/github/stars/couponswift/awesome-student-software-deals?style=flat-square) |
+| [**kamath/student-free-stuff**](https://github.com/kamath/student-free-stuff) | Simple list of free dev tools for .edu students | ![Stars](https://img.shields.io/github/stars/kamath/student-free-stuff?style=flat-square) |
+| [**GitHub Student Developer Pack**](https://education.github.com/pack) | Official source — 50+ partner offers, free tools & certifications | Official |
 
 ---
 
