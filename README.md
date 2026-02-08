@@ -41,6 +41,7 @@
 - [📝 Changelog](#-changelog)
 - [🧠 Pro Hacks](#-pro-hacks)
 - [🔗 Community Lists & Resources](#-community-lists--resources)
+- [🌟 Student Deal Websites](#-student-deal-websites)
 
 </details>
 
@@ -322,6 +323,28 @@
 | [**couponswift/awesome-student-software-deals**](https://github.com/couponswift/awesome-student-software-deals) | Verified free software & student discounts across 10 categories | ![Stars](https://img.shields.io/github/stars/couponswift/awesome-student-software-deals?style=flat-square) |
 | [**kamath/student-free-stuff**](https://github.com/kamath/student-free-stuff) | Simple list of free dev tools for .edu students | ![Stars](https://img.shields.io/github/stars/kamath/student-free-stuff?style=flat-square) |
 | [**GitHub Student Developer Pack**](https://education.github.com/pack) | Official source — 50+ partner offers, free tools & certifications | Official |
+
+<p align="right"><a href="#-table-of-contents">⬆ Back to Top</a></p>
+
+---
+
+## 🌟 Student Deal Websites
+
+> **Bookmark these.** They aggregate hundreds of student discounts, freebies, and deals in one place:
+
+| Website | What It Offers | Region |
+|:--------|:---------------|:------:|
+| [**FreeForStudents.org**](https://freeforstudents.org) | Curated free software, tools, streaming, food & lifestyle deals for verified students | 🌐 Global (US/ROW) |
+| [**UNiDAYS**](https://www.myunidays.com) | 300+ brand discounts (tech, fashion, food, travel) — free with .edu verification | 🌐 Global |
+| [**Student Beans**](https://www.studentbeans.com) | Thousands of student discounts + cashback — verify once, save for years (incl. 5 yrs post-grad) | 🌐 Global |
+| [**GitHub Education**](https://education.github.com/pack) | The gold standard — 50+ dev tools, cloud credits, domains, certifications, all free | 🌐 Global |
+| [**TOTUM**](https://www.totum.com) | Official UK NUS student discount card — physical + digital discounts | 🇬🇧 UK |
+| [**ID.me**](https://www.id.me) | Identity verification platform — unlocks student discounts at many US retailers & brands | 🇺🇸 US |
+| [**OpenAlternative.co**](https://openalternative.co) | Not student-specific, but find free open-source alternatives to any paid software | 🌐 Global |
+| [**Save the Student**](https://www.savethestudent.org) | UK-focused student money guide — deals, freebies, budgeting tips, competitions | 🇬🇧 UK |
+| [**Student Money Saver**](https://www.studentmoneysaver.co.uk) | UK deals, discounts, competitions, and freebies for students | 🇬🇧 UK |
+
+<p align="right"><a href="#-table-of-contents">⬆ Back to Top</a></p>
 
 ---
 
