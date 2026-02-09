@@ -3,7 +3,7 @@
 # 🎓 Student-Only AI & Cloud Benefits
 
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--08-blue?style=for-the-badge)
-![Offers](https://img.shields.io/badge/Verified%20Offers-60+-brightgreen?style=for-the-badge)
+![Offers](https://img.shields.io/badge/Verified%20Offers-64+-brightgreen?style=for-the-badge)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
